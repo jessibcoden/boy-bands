@@ -57,7 +57,7 @@ Loop through the two arrays provided (`bands` and `vegetables`) and output each 
 ### How to run (Node must be installed on your machine):
 ```
 git clone https://github.com/lady-ace/boy-bands
-cd rboy-bands
+cd boy-bands
 npm install http-server -g
 http-server -p 8080
 ```
